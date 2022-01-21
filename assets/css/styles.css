@@ -113,6 +113,7 @@ table th {
     .tit-insc{
         text-justify: auto;
         font-family: cursive;
+        padding-left: 3%;
     
     }
     .termos{
@@ -145,6 +146,7 @@ padding: 10px;
 }
 .ficha{
     color: #ffff;
+    padding-left: 6%;
 
 }
 .ft{
@@ -158,4 +160,8 @@ padding: 10px;
     padding-block-start: 0%;
     padding-block-end: 0%;
 }
+.section-dois{
+    padding-left: 5%;
+}
+
   

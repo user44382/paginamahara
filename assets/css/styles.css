@@ -110,7 +110,7 @@ table th {
        padding: 4px;
     }
     
-    h2{
+    .tit-insc{
         text-justify: auto;
         font-family: cursive;
     
@@ -125,4 +125,21 @@ table th {
     h2 {
         color: antiquewhite;
     }
+    .termo-um{
+        color: beige;
+        padding-block-start: 50px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+    }
+.regras{
+    background-color: #ffff;
+    color: black;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin: 10px;
+padding: 10px;
+}
+.tit-tit{
+    font-size: x-large;
+    color: blanchedalmond;
+}
   

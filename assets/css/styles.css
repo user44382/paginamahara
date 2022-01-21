@@ -61,6 +61,7 @@ table th {
     .img-in-text{
     
             height: 166px ;
+            padding-left: 2%;
         }
         @media screen and (min){
             

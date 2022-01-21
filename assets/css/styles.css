@@ -86,4 +86,7 @@ table th {
     .termos :hover{
         background-color: rgba(255, 248, 248, 0.3);
     }
+    h2 {
+        color: antiquewhite;
+    }
     
